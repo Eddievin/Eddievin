@@ -1,5 +1,5 @@
 ### 🌱 Hi there, Check me out! 👋                   
-![eddie](https://user-images.githubusercontent.com/49716569/126039665-b9befe5b-68e9-4d7b-9f90-2c828463e63a.png)(https://eddiethokerunga.com/)
+(https://eddiethokerunga.com/)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thokerunga-eddie-9837891ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7m80fyOkT3C3F5dZldTpnw%3D%3D)
