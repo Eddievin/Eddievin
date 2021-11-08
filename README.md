@@ -1,4 +1,6 @@
-### 🌱 Hi there, Check me out! 👋                   
+### 🌱 Hi there, 
+### 👇👇 Check out my Projects here! 👇👇
+     
 (https://eddiethokerunga.com/)
 
 
