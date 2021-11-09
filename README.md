@@ -1,7 +1,7 @@
 ### 🌱 Hi there, 
 ### 👇👇 Check out my Projects here! 👇👇
      
-(https://eddiethokerunga.com/)
+(https://eddiethokerunga.com/#portfolio)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thokerunga-eddie-9837891ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7m80fyOkT3C3F5dZldTpnw%3D%3D)
