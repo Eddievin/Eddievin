@@ -1,5 +1,8 @@
 <!--Banner-->
-![EDDIEVIN Banner Image](./banner.png)
+
+![banner](https://github.com/Eddievin/Eddievin/assets/49716569/27f2dbd9-881c-4951-b069-1e4c247bcb9c)
+
+
 
 <!--Night Owl image-->
 <div>
